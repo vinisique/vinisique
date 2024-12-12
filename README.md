@@ -64,25 +64,19 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
 
 ## 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <!-- Bloco Estatísticas do GitHub -->
-  <div style="flex: 3; position: relative; text-align: center;">
-    <img 
-      alt="GitHub Stats" 
-      style="width: 100%; height: auto;" 
-      src="https://github-readme-stats.vercel.app/api?username=vinisique&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&locale=pt-br" 
-    />
-    <div style="position: absolute; top: 10px; right: 10px; background-color: rgba(0, 0, 0, 0.7); color: #00FF00; font-size: 1.5em; font-weight: bold; padding: 5px 10px; border-radius: 5px;">
-      S++
-    </div>
-  </div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vinisique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-  <!-- Bloco Linguagens Mais Usadas -->
-  <div style="flex: 2; text-align: center;">
-    <img 
-      alt="Linguagens Mais Usadas" 
-      style="width: 100%; height: auto;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-  </div>
-</div>
+  <img 
+    align="left" 
+    alt="Linguagens Mais Usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
