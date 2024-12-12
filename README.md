@@ -59,7 +59,7 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <img 
     alt="GitHub Stats" 
     height= 60% 
