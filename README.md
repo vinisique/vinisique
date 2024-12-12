@@ -4,6 +4,30 @@
 
 Me chamo Vinicius Siqueira, sou Cientista de Dados Júnior em São Paulo, SP, com dois anos de experiência na área de dados. Tenho formação técnica, estou cursando Tecnologia em Banco de Dados no ensino superior e possuo certificação IBM Data Science Professional Certificate. Minha trajetória inclui projetos em Machine Learning, Inteligência Artificial e Engenharia de Dados, sempre com foco em criar soluções eficientes e inovadoras. No meu repositório, você encontrará exemplos práticos do meu trabalho e aprendizado contínuo na área de dados.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/vinicius-siqueira1/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:vinniesique@gmail.com" target="_blank">
+        <img 
+            alt="E-mail" 
+            title="Envie-me um e-mail" 
+            src="https://custom-icon-badges.demolab.com/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://wa.me/5511932397009" target="_blank">
+        <img 
+            alt="WhatsApp" 
+            title="Entre em contato pelo WhatsApp" 
+            src="https://custom-icon-badges.demolab.com/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+</p>
+
 ---
 
 ## 🔧 Tecnologias e Ferramentas
