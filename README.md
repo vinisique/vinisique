@@ -1,46 +1,115 @@
-# 👋 Olá, eu sou Vinicius Siqueira!  
+# 👨‍💻 Vinicius Siqueira
 
-Bem-vindo ao meu perfil no GitHub! Sou **Cientista de Dados** com expertise em **Machine Learning**, **Inteligência Artificial** e **Engenharia de Dados**. Meu objetivo é transformar dados em soluções inteligentes e impactantes para os desafios do mundo real.
+**`Cientista de Dados`**
 
----
-
-## 🚀 Sobre Mim
-
-🔍 Apaixonado por resolver problemas complexos através de **dados e tecnologia**.  
-🧠 Com experiência em **Python**, **SQL**, **NoSQL**, e frameworks como **TensorFlow**, **Scikit-learn** e **Pandas**.  
-📊 Criei soluções como automações RPA, dashboards interativos e modelos preditivos com alta acurácia.  
+Me chamo Vinicius Siqueira e sou apaixonado por tecnologia e análise de dados. Possuo mais de dois anos de experiência em ciência de dados, com forte conhecimento em **Python**, **Machine Learning**, **Big Data** e ferramentas como **Power BI** e **TensorFlow**. Meu objetivo é transformar dados em insights valiosos que resolvam problemas complexos e gerem impacto positivo.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL, NoSQL  
-- **Frameworks:** TensorFlow, Scikit-learn, Selenium  
-- **Ferramentas de Dados:** Pandas, Power BI, BigQuery  
-- **Outras Habilidades:** Machine Learning, RPA, ETL, APIs  
+<p align="left">
+    <a href="https://github.com/vinisique?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/vinisique?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://github.com/vinisique?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/vinisique?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🌟 Projetos em Destaque
+### 🤖 Linguagens e Tecnologias
 
-- **[Análise Comparativa de Educação](https://github.com/vinisique/analise-educacao):** Dashboard interativo em Power BI integrando dados públicos tratados com Python e Pandas.  
-- **[Previsão de Jogos de Futebol](https://github.com/vinisique/previsao-jogos):** Modelo de aprendizado de máquina com integração ao Telegram, alcançando 65% de acurácia.  
-- **[Detecção de Alzheimer](https://github.com/vinisique/deteccao-alzheimer):** Modelo baseado em redes neurais para análise de imagens médicas, com 87% de precisão.  
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spark" 
+    title="Apache Spark"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br/>
+<br/>
 
 ---
 
-## 📈 Mini Game no Bloco de Contribuições
+### 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github.com/vinisique/vinisique/raw/main/contribution_game.gif" alt="Mini Game no Bloco de Contribuições" />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=vinisique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-🎮 Acompanhe minha evolução no bloco de contribuições e divirta-se com este mini game baseado em minhas atividades no GitHub!  
+<img 
+    align="left" 
+    alt="Linguagens Mais Usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
 ---
 
-## 📫 Entre em Contato
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-siqueira1)  
-- 📧 [E-mail](mailto:vinniesique@gmail.com)  
-- 🖥️ [Portfólio no GitHub](https://github.com/vinisique)
-
-![Snake animation](https://raw.githubusercontent.com/vinisique/vinisique/output/github-contribution-grid-snake.svg)
+### 🚀 Sobre Mim
+- 🔍 Experiência em análise de dados e machine learning.
+- 🧠 Certificação IBM Data Science Professional Certificate.
+- 🎯 Desenvolvo soluções práticas para grandes problemas usando IA.
