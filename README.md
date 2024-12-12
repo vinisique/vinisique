@@ -69,7 +69,7 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
 
   <img 
     alt="Linguagens Mais Usadas" 
-    height= "200" 
+    height= "150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
