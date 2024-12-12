@@ -2,8 +2,7 @@
 
 **`Cientista de Dados`**
 
-Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará projetos que demonstram habilidades em análise de dados, machine learning e Big Data. Vamos transformar dados em soluções inteligentes juntos!
-
+Me chamo Vinicius Siqueira, sou Cientista de Dados Júnior em São Paulo, SP, com dois anos de experiência na área de dados. Tenho formação técnica, estou cursando Tecnologia em Banco de Dados no ensino superior e possuo certificação IBM Data Science Professional Certificate. Minha trajetória inclui projetos em Machine Learning, Inteligência Artificial e Engenharia de Dados, sempre com foco em criar soluções eficientes e inovadoras. No meu repositório, você encontrará exemplos práticos do meu trabalho e aprendizado contínuo na área de dados.
 ---
 
 ## 🔧 Tecnologias e Ferramentas
