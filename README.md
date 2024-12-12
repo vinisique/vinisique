@@ -8,11 +8,11 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
 
 ## 🔧 Tecnologias e Ferramentas
 
-<table align="center" style="border-collapse: collapse; width: 80%; text-align: center; margin: auto; border: none;">
+<table align="center" style="border-collapse: collapse; width: 80%; margin: auto; text-align: center; background: none;">
   <tr style="border: none; background: none;">
-    <th style="border: none;">🖥️ Linguagens de Programação</th>
-    <th style="border: none;">📊 Big Data e Pipelines</th>
-    <th style="border: none;">🤖 Machine Learning e IA</th>
+    <th style="border: none; background: none;">🖥️ Linguagens de Programação</th>
+    <th style="border: none; background: none;">📊 Big Data e Pipelines</th>
+    <th style="border: none; background: none;">🤖 Machine Learning e IA</th>
   </tr>
   <tr style="border: none; background: none;">
     <td style="border: none; background: none;">
@@ -32,9 +32,9 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
     </td>
   </tr>
   <tr style="border: none; background: none;">
-    <th style="border: none;">📈 Visualização de Dados</th>
-    <th style="border: none;">💾 Bancos de Dados</th>
-    <th style="border: none;">🚀 Orquestração e Deploy</th>
+    <th style="border: none; background: none;">📈 Visualização de Dados</th>
+    <th style="border: none; background: none;">💾 Bancos de Dados</th>
+    <th style="border: none; background: none;">🚀 Orquestração e Deploy</th>
   </tr>
   <tr style="border: none; background: none;">
     <td style="border: none; background: none;">
