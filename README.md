@@ -41,4 +41,6 @@ Bem-vindo ao meu perfil no GitHub! Sou **Cientista de Dados** com expertise em *
 ## 📫 Entre em Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-siqueira1)  
 - 📧 [E-mail](mailto:vinniesique@gmail.com)  
-- 🖥️ [Portfólio no GitHub](https://github.com/vinisique)  
+- 🖥️ [Portfólio no GitHub](https://github.com/vinisique)
+
+![Snake animation](https://github.com/vinisique/vinisique/blob/output/github-contribution-grid-snake.svg)
