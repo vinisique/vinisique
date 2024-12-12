@@ -7,57 +7,38 @@ Bem-vindo ao meu perfil no GitHub! Sou **Cientista de Dados** com expertise em *
 ## 🚀 Sobre Mim
 
 🔍 Apaixonado por resolver problemas complexos através de **dados e tecnologia**.  
-🧠 Habilidades avançadas em **Python**, **SQL**, **Machine Learning**, **Big Data** e automação de processos.  
-📊 Experiência em projetos que vão desde **previsões esportivas** até **diagnósticos médicos com IA**.  
+🧠 Com experiência em **Python**, **SQL**, **NoSQL**, e frameworks como **TensorFlow**, **Scikit-learn** e **Pandas**.  
+📊 Criei soluções como automações RPA, dashboards interativos e modelos preditivos com alta acurácia.  
 
 ---
 
-## 🛠️ Minhas Habilidades
-
-### **Hard Skills**
-- Linguagens: **Python**, **SQL**, **NoSQL**, **C++**
-- Ferramentas e Tecnologias: **TensorFlow**, **Keras**, **Power BI**, **ETL**
-- Áreas: **Machine Learning**, **Big Data**, **RPA**
-
-### **Soft Skills**
-- 🎯 Pensamento Crítico  
-- 📚 Data Storytelling  
-- ⏳ Gestão de Tempo  
-- 💡 Adaptabilidade  
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, SQL, NoSQL  
+- **Frameworks:** TensorFlow, Scikit-learn, Selenium  
+- **Ferramentas de Dados:** Pandas, Power BI, BigQuery  
+- **Outras Habilidades:** Machine Learning, RPA, ETL, APIs  
 
 ---
 
-## 💻 Projetos em Destaque
+## 🌟 Projetos em Destaque
 
-### 🔗 [Previsão de Jogos de Futebol](https://github.com/Siqueira-Vinicius/previsao-jogos)
-Um modelo de Machine Learning integrado ao Telegram que atinge 65% de precisão na previsão de resultados.
-
-### 🧠 [Detecção de Alzheimer](https://github.com/Siqueira-Vinicius/deteccao-alzheimer)
-Modelo de aprendizado profundo (MLP) para diagnóstico com 87% de acurácia em ressonâncias magnéticas.
-
-### 📊 [Dashboard Educacional](https://github.com/Siqueira-Vinicius/dashboard-educacional)
-Pipeline automatizado para coleta de dados governamentais e visualização em Power BI.
+- **[Análise Comparativa de Educação](https://github.com/vinisique/analise-educacao):** Dashboard interativo em Power BI integrando dados públicos tratados com Python e Pandas.  
+- **[Previsão de Jogos de Futebol](https://github.com/vinisique/previsao-jogos):** Modelo de aprendizado de máquina com integração ao Telegram, alcançando 65% de acurácia.  
+- **[Detecção de Alzheimer](https://github.com/vinisique/deteccao-alzheimer):** Modelo baseado em redes neurais para análise de imagens médicas, com 87% de precisão.  
 
 ---
 
-## 🎮 Mini Game de Contribuições
+## 📈 Mini Game no Bloco de Contribuições
 
-Desafie-se e jogue diretamente no meu bloco de contribuições!  
-Clique no botão abaixo para começar:  
+<div align="center">
+  <img src="https://github.com/vinisique/vinisique/raw/main/contribution_game.gif" alt="Mini Game no Bloco de Contribuições" />
+</div>
 
-<a href="https://skyline.github.com/Siqueira-Vinicius/2024" target="_blank">
-  <img src="https://img.shields.io/badge/🎮-Jogar%20Mini%20Game-000?style=for-the-badge" alt="Jogar Mini Game">
-</a>
-
----
-
-## 🌐 Redes Sociais e Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Siqueira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinicius-siqueira1)  
-[![GitHub](https://img.shields.io/badge/GitHub-Siqueira--Vinicius-black?style=flat-square&logo=github)](https://github.com/Siqueira-Vinicius)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/5511932397009)  
-[![Gmail](https://img.shields.io/badge/Gmail-vinniesique@gmail.com-red?style=flat-square&logo=gmail)](mailto:vinniesique@gmail.com)
+🎮 Acompanhe minha evolução no bloco de contribuições e divirta-se com este mini game baseado em minhas atividades no GitHub!  
 
 ---
 
-> 🎉 **Dica:** Explore meus repositórios e descubra como estou transformando dados em soluções inovadoras! 🌟  
+## 📫 Entre em Contato
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vinicius-siqueira1)  
+- 📧 [E-mail](mailto:vinniesique@gmail.com)  
+- 🖥️ [Portfólio no GitHub](https://github.com/vinisique)  
