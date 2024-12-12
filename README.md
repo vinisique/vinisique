@@ -8,7 +8,7 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
 
 ## 🔧 Tecnologias e Ferramentas
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
 
 ### **Linguagens de Programação**
 <p align="center">
