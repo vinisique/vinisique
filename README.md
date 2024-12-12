@@ -71,12 +71,17 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=vinisique&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&locale=pt-br" 
   />
-</p>
-<p align="center">
   <img 
     align="center" 
     alt="Linguagens Mais Usadas" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="Nota S++" 
+    src="https://img.shields.io/badge/Nota-S%2B%2B-brightgreen?style=for-the-badge&logo=github" 
   />
 </p>
