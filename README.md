@@ -64,7 +64,6 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
     align="left" 
     alt="GitHub Stats" 
     height= 50% 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vinisique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
