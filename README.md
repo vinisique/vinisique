@@ -43,6 +43,4 @@ Bem-vindo ao meu perfil no GitHub! Sou **Cientista de Dados** com expertise em *
 - 📧 [E-mail](mailto:vinniesique@gmail.com)  
 - 🖥️ [Portfólio no GitHub](https://github.com/vinisique)
 
-<div>
 ![Snake animation](https://github.com/vinisique/vinisique/blob/output/github-contribution-grid-snake.svg)
-</div>
