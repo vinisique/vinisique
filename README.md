@@ -71,7 +71,7 @@ Sou apaixonado por dados e tecnologia. No meu repositório, você encontrará pr
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="50" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
