@@ -30,75 +30,6 @@ Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência 
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
-
-<table align="center" style="border-collapse: collapse; width: 90%; margin: auto; text-align: center; background: none;">
-  <tr style="border: none; background: none;">
-    <th style="border: none; background: none;">🖥️ Linguagens</th>
-    <th style="border: none; background: none;">📊 Engenharia de Dados</th>
-    <th style="border: none; background: none;">🤖 Machine Learning & IA</th>
-  </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40" />
-    </td>
-    <td style="border: none; background: none; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="PySpark" alt="PySpark" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
-    </td>
-    <td style="border: none; background: none; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40" />
-    </td>
-  </tr>
-  <tr style="border: none; background: none;">
-    <th style="border: none; background: none;">📈 Visualização & BI</th>
-    <th style="border: none; background: none;">💾 Bancos de Dados</th>
-    <th style="border: none; background: none;">⚙️ Automação & Ferramentas</th>
-  </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none; padding: 10px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40" />
-      &nbsp;
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40" />
-    </td>
-    <td style="border: none; background: none; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="40" height="40" />
-    </td>
-    <td style="border: none; background: none; padding: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
-      &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Projetos em Destaque
 
 <table align="center" style="border-collapse: collapse; width: 90%; margin: auto; background: none;">
@@ -152,18 +83,42 @@ Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Stack Principal
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=vinisique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
-  />
-  &nbsp;
-  <img 
-    alt="Top Languages" 
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisique&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6&hide_border=true"
-  />
+
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+
+  <br/>
+
+  <!-- Engenharia de Dados -->
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <br/>
+
+  <!-- Bancos de Dados -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <br/>
+
+  <!-- ML & BI -->
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <br/>
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </p>
