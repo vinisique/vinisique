@@ -35,8 +35,20 @@ Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência 
 <table align="center" style="border-collapse: collapse; width: 90%; margin: auto; background: none;">
   <tr style="border: none; background: none;">
     <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
+      <h3>📦 Pipeline ETL — E-commerce BR</h3>
+      <p>Pipeline end-to-end com ingestão de 1,5 milhão de registros do Olist Dataset, processamento distribuído com PySpark, modelagem em esquema estrela no PostgreSQL e dashboard interativo em Streamlit. Orquestrado com Airflow e empacotado com Docker Compose.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+      </p>
+      <a href="https://github.com/vinisique/olist-etl-pipeline">→ Ver repositório</a>
+    </td>
+    <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
       <h3>🦟 Previsão de Surtos de Dengue</h3>
-      <p>Pipeline preditivo de 3 fases com modelo híbrido AdaBoost + MLP para antecipar surtos de dengue em São Paulo, cruzando dados epidemiológicos do SINAN com variáveis climáticas do INMET.</p>
+      <p>Pipeline preditivo de 3 fases com modelo híbrido AdaBoost + MLP para antecipar surtos de dengue em São Paulo, cruzando séries temporais epidemiológicas com variáveis climáticas do INMET.</p>
       <p><strong>R² = 0,93 · MAE ~2.185 casos · 0 falsos positivos</strong></p>
       <p>
         <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
@@ -45,43 +57,48 @@ Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência 
       </p>
       <a href="https://github.com/vinisique/dengue-forecast-ml">→ Ver repositório</a>
     </td>
+  </tr>
+  <tr style="border: none; background: none;">
     <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
-      <h3>📦 Pipeline ETL — E-commerce BR</h3>
-      <p>Pipeline end-to-end com ingestão, transformação e carga do Olist Dataset, orquestrado com Airflow e armazenado em Data Warehouse no PostgreSQL, com dashboard no Power BI.</p>
-      <p><em>Em construção</em></p>
+      <h3>💰 Raw Material Pricing Insights</h3>
+      <p>Análise de dados de precificação de matérias-primas com exploração estatística e visualização orientada a decisão de negócio.</p>
       <p>
-        <img src="https://img.shields.io/badge/PySpark-orange?style=flat&logo=apache-spark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
       </p>
-      <a href="https://github.com/vinisique">→ Em breve</a>
+      <a href="https://github.com/vinisique/raw-material-pricing-insights">→ Ver repositório</a>
+    </td>
+    <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
+      <h3>🎮 LoL Competitive Analysis</h3>
+      <p>Análise competitiva de partidas do League of Legends — padrões táticos, métricas de performance e storytelling com dados do cenário profissional.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      </p>
+      <a href="https://github.com/vinisique/lol-competitive-analysis">→ Ver repositório</a>
     </td>
   </tr>
   <tr style="border: none; background: none;">
     <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
-      <h3>📊 Dashboard Analítico — Dados Públicos BR</h3>
-      <p>Análise exploratória de dados abertos do governo federal com storytelling visual em Power BI, transformando volume bruto de registros em narrativa de negócio acionável.</p>
-      <p><em>Em construção</em></p>
+      <h3>🏥 Atenção Básica DB</h3>
+      <p>Pipeline ETL sobre dados de atenção básica à saúde — extração, transformação e carga estruturada para análise de indicadores de saúde pública.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
       </p>
-      <a href="https://github.com/vinisique">→ Em breve</a>
+      <a href="https://github.com/vinisique/atencao-basica-db">→ Ver repositório</a>
     </td>
     <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
-      <h3>😊 Emotion Detector</h3>
-      <p>Detector de emoções em Python — reconhecimento de expressões faciais com visão computacional.</p>
+      <h3>📊 DataVerse Portfolio</h3>
+      <p>Coleção de análises exploratórias sobre datasets variados — demonstrando domínio de Python, SQL e visualização de dados em diferentes contextos.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer_Vision-green?style=flat" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
       </p>
-      <a href="https://github.com/vinisique/emotion-detector">→ Ver repositório</a>
+      <a href="https://github.com/vinisique/DataVerse-Portfolio">→ Ver repositório</a>
     </td>
   </tr>
 </table>
-
----
 
 ## 🛠️ Stack Principal
 
