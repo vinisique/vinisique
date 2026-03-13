@@ -36,13 +36,19 @@ Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência 
   <tr style="border: none; background: none;">
     <td style="border: none; background: none; padding: 10px; width: 50%; vertical-align: top;">
       <h3>📦 Pipeline ETL — E-commerce BR</h3>
-      <p>Pipeline end-to-end com ingestão de 1,5 milhão de registros do Olist Dataset, processamento distribuído com PySpark, modelagem em esquema estrela no PostgreSQL e dashboard interativo em Streamlit. Orquestrado com Airflow e empacotado com Docker Compose.</p>
+      <p>Pipeline end-to-end com ingestão de 1,5 milhão de registros do Olist Dataset, processamento distribuído com PySpark, modelagem em esquema estrela no PostgreSQL + pgvector e dashboard interativo em Streamlit. Inclui análise semântica de reviews com NLP (sentence-transformers + UMAP), busca vetorial com RAG e Chat IA com Text-to-SQL via Groq. Orquestrado com Airflow e empacotado com Docker Compose.</p>
       <p>
         <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-sentence--transformers-FF6F00?style=flat&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
       </p>
       <a href="https://github.com/vinisique/olist-etl-pipeline">→ Ver repositório</a>
     </td>
@@ -121,19 +127,32 @@ Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência 
 
   <!-- Bancos de Dados -->
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   <br/>
 
-  <!-- ML & BI -->
+  <!-- ML & IA -->
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/sentence--transformers-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UMAP-8A2BE2?style=for-the-badge&logoColor=white" />
 
   <br/>
 
-  <!-- Ferramentas -->
+  <!-- IA Generativa & NLP -->
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Text--to--SQL-6366F1?style=for-the-badge&logoColor=white" />
+
+  <br/>
+
+  <!-- BI & Ferramentas -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
