@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados & Analista de Dados`**
 
-Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência em construção de pipelines ETL, automação de processos e análise orientada a negócio. Tenho formação em Tecnologia em Banco de Dados pela Faculdade Impacta, com certificações IBM Data Science e IBM Generative AI Engineering Professional Certificate (Coursera). Meu portfólio inclui projetos em Machine Learning aplicado à saúde pública, engenharia de dados com PySpark e AWS, e análise exploratória com storytelling em Power BI.
+Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência em construção de pipelines ETL, automação de processos e análise orientada a negócio. Tenho formação em Tecnologia em Banco de Dados pela Faculdade Impacta, com certificados IBM Data Science e IBM Generative AI Engineering Professional Certificate (Coursera). Meu portfólio inclui projetos em Machine Learning aplicado à saúde pública, engenharia de dados com PySpark e AWS, e análise exploratória com storytelling em Power BI.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vinicius-siqueira1/" target="_blank">
