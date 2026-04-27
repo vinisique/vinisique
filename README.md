@@ -2,7 +2,7 @@
 
 **`Engenheiro de Dados & Analista de Dados`**
 
-Sou Engenheiro e Analista de Dados com base em São Paulo, SP, com experiência em construção de pipelines ETL, automação de processos e análise orientada a negócio. Tenho formação em Tecnologia em Banco de Dados pela Faculdade Impacta, com certificados IBM Data Science e IBM Generative AI Engineering Professional Certificate (Coursera). Meu portfólio inclui projetos em Machine Learning aplicado à saúde pública, engenharia de dados com PySpark e AWS, e análise exploratória com storytelling em Power BI.
+AI Engineer e ML Engineer com experiência em produção no desenvolvimento de sistemas LLM, RAG pipelines end-to-end (Hybrid Search, Corrective RAG, re-ranking), AI Agents autônomos (tool-use) e Generative AI. Expertise em Python (v3.10+), FastAPI, LangChain, LangGraph, LLM multi-provider (OpenAI, Anthropic, AWS Bedrock), pgvector, Semantic Search, Text-to-SQL, HuggingFace Transformers e LLMOps com observabilidade (LangSmith, RAGAS, LLM Evals). Sólida base em Data Engineering com PySpark, Apache Airflow, PostgreSQL, Docker e AWS. Histórico comprovado de impacto mensurável: ciclos operacionais reduzidos de 30 dias para menos de 2 horas, mitigação de perdas acima de R$ 60 mil e redução de ~80% em análise manual via IA generativa. Experiência em avaliação de qualidade de modelos LLM (RLHF, Human-in-the-Loop) em ambiente produtivo.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vinicius-siqueira1/" target="_blank">
